@@ -10,3 +10,4 @@ MLflow Registry (candidate / champion), pipeline GitHub Actions et model card.
     pip install -r requirements.txt
     set PYTHONPATH=.
     pytest tests/ -v --cov=src --cov-report=term-missing
+Pipeline CI/CD avec approbation manuelle avant la production.
